@@ -48,6 +48,8 @@ public class LibrosServlet extends HttpServlet {
         libros.addLibro(new Libro(titulo, autor, isbn, ciudad, pais, nuevo));
         
         
+        
+        
     }
 
     // <editor-fold defaultstate="collapsed" desc="HttpServlet methods. Click on the + sign on the left to edit the code.">

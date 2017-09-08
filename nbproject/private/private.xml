@@ -3,12 +3,10 @@
     <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
     <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
         <group>
-            <file>file:/C:/Users/Alfonso/Documents/NetBeansProjects/Solicitudes/src/java/controller/LoginServlet.java</file>
-            <file>file:/C:/Users/Alfonso/Documents/NetBeansProjects/Solicitudes/src/java/com/solicitudes/negocio/Usuario.java</file>
+            <file>file:/C:/Users/Alfonso/Documents/NetBeansProjects/Solicitudes/src/java/com/solicitudes/negocio/Libro.java</file>
+            <file>file:/C:/Users/Alfonso/Documents/NetBeansProjects/Solicitudes/src/java/com/solicitudes/negocio/DBLibros.java</file>
             <file>file:/C:/Users/Alfonso/Documents/NetBeansProjects/Solicitudes/src/java/com/solicitudes/negocio/DBUsuarios.java</file>
-            <file>file:/C:/Users/Alfonso/Documents/NetBeansProjects/Solicitudes/web/index.jsp</file>
-            <file>file:/C:/Users/Alfonso/Documents/NetBeansProjects/Solicitudes/web/libros.jsp</file>
-            <file>file:/C:/Users/Alfonso/Documents/NetBeansProjects/Solicitudes/web/falloEnLogin.jsp</file>
+            <file>file:/C:/Users/Alfonso/Documents/NetBeansProjects/Solicitudes/src/java/controller/LibrosServlet.java</file>
         </group>
     </open-files>
 </project-private>
